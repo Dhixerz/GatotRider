@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game_Over
+comment1.params=score
+comment1.target=Game_Over(int)
+comment2.params=score
+comment2.target=void\ prepare(int)
+numComments=3

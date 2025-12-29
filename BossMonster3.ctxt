@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BossMonster3
+comment1.params=
+comment1.target=BossMonster3()
+comment10.params=
+comment10.target=void\ attackPlayer()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=sprites
+comment4.target=void\ animate(greenfoot.GreenfootImage[])
+comment5.params=
+comment5.target=void\ animateIdle()
+comment6.params=
+comment6.target=void\ moveToPlayer()
+comment7.params=faceRight
+comment7.target=void\ mirrorFacingDirection(boolean)
+comment8.params=
+comment8.target=void\ checkHitByAttack()
+comment9.params=
+comment9.target=void\ stayOnGround()
+numComments=11

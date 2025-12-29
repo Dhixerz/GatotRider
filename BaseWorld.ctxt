@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BaseWorld
+comment0.text=\r\n\ BaseWorld\ yang\ berfungsi\ untuk\ mengatur\ dunia\ dasar.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height\ worldWidth
+comment1.target=BaseWorld(int,\ int,\ int)
+comment2.params=player\ startX\ startY
+comment2.target=void\ setPlayer(greenfoot.Actor,\ int,\ int)
+comment3.params=
+comment3.target=greenfoot.Actor\ getPlayer()
+comment4.params=
+comment4.target=Counter\ getCounter()
+comment5.params=
+comment5.target=HealthBar\ getHealthBar()
+comment6.params=
+comment6.target=void\ keepCounterSticky()
+comment7.params=
+comment7.target=void\ keepHealthBarSticky()
+numComments=8

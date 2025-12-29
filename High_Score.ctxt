@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=High_Score
+comment1.params=
+comment1.target=High_Score()
+comment2.params=currentScore
+comment2.target=void\ checkAndSetHighScore(int)
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=int\ getHighScore()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=tutorialMenu
+comment1.params=
+comment1.target=tutorialMenu()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ started()
+comment5.params=
+comment5.target=void\ stopMusic()
+numComments=6

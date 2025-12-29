@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=snake
+comment1.params=
+comment1.target=snake()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateSnake()
+comment4.params=originalImage
+comment4.target=greenfoot.GreenfootImage\ getMirroredImage(greenfoot.GreenfootImage)
+comment5.params=
+comment5.target=void\ checkForHitByGatotAttackEffect()
+comment6.params=
+comment6.target=void\ checkForHitByPlayer()
+comment7.params=
+comment7.target=void\ checkAndMirrorImage()
+comment8.params=mirror
+comment8.target=void\ mirrorImage(boolean)
+numComments=9
